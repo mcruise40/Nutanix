@@ -32,7 +32,7 @@ No objects are output from this script.
 NAME: Invoke-VmShutdownByCategory
 VERSION: 1.0
 Author: Andy Kruesi, Ceruno AG
-Basend on Nutanix Inventory Script by author: Manoj Mone, Nutanix (https://github.com/manoj-mone/Nutanix/tree/main/Powershell)
+Based on Nutanix Inventory Script by author: Manoj Mone, Nutanix (https://github.com/manoj-mone/Nutanix/tree/main/Powershell)
 and Kees Baggerman
 Created On: December 21, 2023
 #>
