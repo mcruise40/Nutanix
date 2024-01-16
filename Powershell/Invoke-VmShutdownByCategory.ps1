@@ -1,9 +1,9 @@
 <#
 .SYNOPSIS
-Shut down or power off VMs based on category in Prism Central
+Efficiently shut down or power off VMs in Prism Central by category.
 .DESCRIPTION
-Automates the process of shutting down or powering off virtual machines in Nutanix Prism Central, as it
-targets VMs based on the specified category.
+This script automates the shutdown or power off of virtual machines managed in Nutanix Prism Central.
+The VMs are identified and shut down based on a value in a category.
 .PARAMETER nxIP
 IP address of the Nutanix Prism Central you're making a connection too.
 .PARAMETER nxUser
